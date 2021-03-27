@@ -1,0 +1,15 @@
+a:hover{
+    background: red;
+    color: black;
+}
+
+a{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+    color: red;
+    background: black;
+    box-shadow: 5px 5px 5px gray;
+    margin: 10px;
+}

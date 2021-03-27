@@ -1,0 +1,51 @@
+a:hover{
+    color: red;
+    background: blue;
+}
+a{
+    color: yellow;
+    background: black;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 2px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+#red:hover{
+    border: 2px solid black;
+}
+#red{
+    background: red;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px gray;
+    overflow: hidden ;
+    margin: 10px auto;
+    }
+img{
+    display: block;
+    margin: auto;
+    width: 50%;
+    height: 100%;
+    border: 2px solid black;
+    
+}
+#blue:hover{
+    border: 2px solid black;
+}
+#blue{
+    background: blue;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px gray;
+    overflow: hidden ;
+    margin: 10px auto;
+}
+#green:hover{
+    border: 2px solid black;
+}
+#green{
+    background: green;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px gray;
+    overflow: hidden ;
+    margin: 10px auto;
+}
